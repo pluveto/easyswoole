@@ -1,6 +1,6 @@
 <?php
 return [
-    'SERVER_NAME' => "EasySwoole",
+    'SERVER_NAME' => "Occulta RESTful Service",
     'MAIN_SERVER' => [
         'LISTEN_ADDRESS' => '0.0.0.0',
         'PORT' => 9501,
